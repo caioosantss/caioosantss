@@ -10,7 +10,7 @@
 <h2 align="center">About Me</h2>
 
 <div align="center">
-  <kbd><img src="https://avatars.githubusercontent.com/u/256878727?v=4" alt="Caio dos Santos" width="160"/></kbd>
+  <img src="https://avatars.githubusercontent.com/u/256878727?v=4" alt="Caio dos Santos" width="160" height="160" style="border-radius: 50%;"/>
   
 - Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.
 - Em formação e desenvolvimento contínuo na área de **software**, com foco em **backend**.
@@ -97,7 +97,9 @@
 
 <div align="center">
   
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=caioosantss&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caioosantss&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=caioosantss&theme=tokyonight&hide_border=true)
 
 </div>
 
