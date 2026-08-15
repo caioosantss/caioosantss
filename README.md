@@ -9,21 +9,14 @@
 
 <h2 align="center">About Me</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://avatars.githubusercontent.com/u/256878727?v=4" width="160" style="border-radius:50%"/>
-    </td>
-    <td>
-      <ul>
-        <li>Estudante de <b>Análise e Desenvolvimento de Sistemas (ADS)</b>.</li>
-        <li>Em formação e desenvolvimento contínuo na área de <b>software</b>, com foco em <b>backend</b>.</li>
-        <li>Transformo <b> problemas reais </b> em solucões de <b> software .</li>
-        <li><b>Foco atual:</b> Python, Java, SQL, FastAPI e Spring Boot.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/256878727?v=4" width="160" style="border-radius:50%;"/>
+  
+  - Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.
+  - Em formação e desenvolvimento contínuo na área de **software**, com foco em **backend**.
+  - Transformo **problemas reais** em soluções de **software**.
+  - **Foco atual:** Python, Java, SQL, FastAPI e Spring Boot.
+</div>
 
 <hr>
 
@@ -102,10 +95,9 @@
 
 <h2 align="center">GitHub Stats</h2>
 
-<div align=="center">
-  
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=caioosantss&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+</div>
 
 <hr>
 
@@ -118,4 +110,4 @@
   <a href="https://github.com/caioosantss" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
+</div>
