@@ -10,14 +10,12 @@
 <h2 align="center">About Me</h2>
 
 <div align="center">
-  <picture>
-    <img src="https://avatars.githubusercontent.com/u/256878727?v=4" width="160" height="160" style="border-radius: 50%; display: block;"/>
-  </picture>
+  <kbd><img src="https://avatars.githubusercontent.com/u/256878727?v=4" alt="Caio dos Santos" width="160"/></kbd>
   
-  - Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.
-  - Em formação e desenvolvimento contínuo na área de **software**, com foco em **backend**.
-  - Transformo **problemas reais** em soluções de **software**.
-  - **Foco atual:** Python, Java, SQL, FastAPI e Spring Boot.
+- Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**.
+- Em formação e desenvolvimento contínuo na área de **software**, com foco em **backend**.
+- Transformo **problemas reais** em soluções de **software**.
+- **Foco atual:** Python, Java, SQL, FastAPI e Spring Boot.
 </div>
 
 <hr>
@@ -98,7 +96,9 @@
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img alt="Caio's GitHub Stats" src="https://github-readme-streak-stats.vercel.app/?user=caioosantss&theme=tokyonight&hide_border=true" />
+  
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=caioosantss&theme=tokyonight&hide_border=true)
+
 </div>
 
 <hr>
