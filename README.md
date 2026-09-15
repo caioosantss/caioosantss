@@ -105,7 +105,7 @@
       <img src="https://img.shields.io/badge/JWT-black?style=flat-square" /><br>
       <img src="https://img.shields.io/badge/BCrypt-brightgreen?style=flat-square" />
     </td>
-    <td align="center"><img src="https://img.shields.io/badge/✅_COMPLETO-2ea44f?style=for-the-badge" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/🔵_In_Progress-2563EB?style=for-the-badge" /></td>
   </tr>
   <tr>
 </table>
