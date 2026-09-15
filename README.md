@@ -39,6 +39,8 @@
 
 <h2 align="center">Projects & Roadmap</h2>
 
+
+
 <table align="center" width="100%">
   <tr>
     <th align="center">Project / Idea</th>
@@ -89,6 +91,23 @@
     </td>
     <td align="center"><img src="https://img.shields.io/badge/🟡_Planned-DAA520?style=for-the-badge" /></td>
   </tr>
+    <tr>
+    <td>
+      <b><a href="https://github.com/caioosantss/Sabore-back-end"> Saborê</a></b><br>
+      <i>Plataforma full-stack de compartilhamento de receitas com autenticação segura (BCrypt)</i><br>
+      <a href="https://receitas-senai-frontend.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_LIVE-Visit-blue" /></a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-21-blue?style=flat-square&logo=openjdk" /><br>
+      <img src="https://img.shields.io/badge/Spring%20Boot-4.1.1-green?style=flat-square&logo=spring" /><br>
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" /><br>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/JWT-black?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/BCrypt-brightgreen?style=flat-square" />
+    </td>
+    <td align="center"><img src="https://img.shields.io/badge/✅_COMPLETO-2ea44f?style=for-the-badge" /></td>
+  </tr>
+  <tr>
 </table>
 
 
